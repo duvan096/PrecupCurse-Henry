@@ -1,2 +1,1 @@
-# PrecupCurse-Henry
-repositorio de prueba modulo 2
+este proyectos es una prueva
